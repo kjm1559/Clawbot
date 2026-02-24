@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# CLAUDE launcher script
+
+# Check if running in a virtual environment
+if [ -z "$VIRTUAL_ENV" ] && [ -z "$CONDA_DEFAULT_ENV" ]; then
+    echo "Warning: Not running in a virtual environment"
+fi
+
+# Run the Python script
+python3 /home/mj/project/Clawbot/claude.py "$@"

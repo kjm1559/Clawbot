@@ -1,0 +1,10 @@
+{"event": "input.forwarded", "session_id": "49c5b79e-dde4-482b-9b0e-b1e386c44995", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T13:44:17.562821", "bytes_len": 7, "details": null}
+{"event": "input.forwarded", "session_id": "49c5b79e-dde4-482b-9b0e-b1e386c44995", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T13:44:41.405541", "bytes_len": 19, "details": null}
+{"event": "input.forwarded", "session_id": "41a842aa-fb9b-4034-8ffc-ecf568a281b0", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T14:02:24.215179", "bytes_len": 1, "details": null}
+{"event": "input.forwarded", "session_id": "a31e51cf-7d71-4c90-8503-f3cf1bf68e1c", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T14:46:22.637610", "bytes_len": 45, "details": null}
+{"event": "input.forwarded", "session_id": "9ef9da4c-f16d-4382-b2ad-daa614e61645", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T14:55:49.208960", "bytes_len": 15, "details": null}
+{"event": "input.forwarded", "session_id": "9ef9da4c-f16d-4382-b2ad-daa614e61645", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T14:57:21.995744", "bytes_len": 23, "details": null}
+{"event": "input.forwarded", "session_id": "9ef9da4c-f16d-4382-b2ad-daa614e61645", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T14:58:07.573038", "bytes_len": 15, "details": null}
+{"event": "input.forwarded", "session_id": "f4eb96dd-1843-4312-83df-accd729d9761", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T15:30:51.378264", "bytes_len": 10, "details": null}
+{"event": "input.forwarded", "session_id": "5f48fb68-c84b-4873-a919-037467a0554a", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T15:42:23.289681", "bytes_len": 10, "details": null}
+{"event": "input.forwarded", "session_id": "5b1f6b15-6a6a-4d4d-b5fd-b6600bc8fe22", "user_id": "7764331663", "username": "", "timestamp": "2026-02-24T16:08:07.773306", "bytes_len": 15, "details": null}
